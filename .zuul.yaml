@@ -1,0 +1,5 @@
+- project:
+    templates:
+      - build-openstack-docs-pti
+    gate:
+      queue: barbican
