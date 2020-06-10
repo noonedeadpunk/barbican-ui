@@ -1,5 +1,5 @@
 - project:
     templates:
-      - build-openstack-docs-pti
+      - publish-openstack-docs-pti
     gate:
       queue: barbican

@@ -6,7 +6,7 @@ Barbican User Interface
 
 * Free software: Apache license
 * Source: http://opendev.org/openstack/barbican-ui
-* Bugs: http://bugs.launchpad.net/barbican-ui
+* Bugs: https://storyboard.openstack.org/#!/project/openstack/barbican-ui
 
 Features
 --------
